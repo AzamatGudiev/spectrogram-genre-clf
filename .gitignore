@@ -1,0 +1,15 @@
+# Data
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+.claude-flow/
